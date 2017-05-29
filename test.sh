@@ -1,6 +1,5 @@
 #!/bin/bash
 
 yum update -y
-yum install git
-
+yum install git vim
 echo $JAVA_HOME
