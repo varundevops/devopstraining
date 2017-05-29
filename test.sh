@@ -1,6 +1,6 @@
 #!/bin/bash
 
 yum update -y
-yum install git
+yum install git vi php
 
 echo $JAVA_HOME
